@@ -9,7 +9,7 @@ position: 0
 previous_url: gridview-editors
 ---
 
-# Editors
+# Editors 
 
 When __RadGridView__ is not in read-only mode users can edit the contents of the current cell. Usually this process starts by typing in the cell or by pressing __F2__. All of the following conditions should be met to put a cell in edit mode:
 
