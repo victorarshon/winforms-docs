@@ -11,6 +11,7 @@ previous_url: checkedlistbox-design-time
  
 # Design Time
 
+
 To start using __RadCheckedListBox__ just drag it from the toolbox and drop it at the form.
 
 ## Smart Tag
