@@ -1,5 +1,5 @@
 ---
-title: Html
+title: Html Document
 page_title: Html | RadRichTextEditor
 description: HtmlFormatProvider allows for import of HTML documents and respectively export of RadRichTextBox to HTML.
 slug: winforms/richtexteditor/import-export/html/html
