@@ -11,7 +11,7 @@ position: 4
 
 # Add Context menu in the code
 
-This article demonstrates how you can add __RadContextMenu__ in the code and attach it to a specific control. 
+This article demonstrates how you can add __RadContextMenu__ in the code and attach it to a specific control . 
 
 1\.	Adding a __RadContextMenu__ at runtime. To programmatically add a __RadContextMenu__ to a form, create a new instance of a __RadContextMenu__.
 
