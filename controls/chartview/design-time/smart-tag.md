@@ -41,7 +41,7 @@ Here is how the control's Smart Tag looks like:
 	
 	* __SelectionMode__: Allows you to define the desired selection mode – None, SingleDataPoint or MultipleDataPoints            
 	
-	* __ShowPanZoom__: Defines whether trackball should be enabled
+	* __ShowPanZoom__: Defines whether panzoom should be enabled
 	
 	* __ShowTrackBall__: Defines whether trackball should be enabled
 
